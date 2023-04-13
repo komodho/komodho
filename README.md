@@ -1,5 +1,9 @@
 <h1>Hi, I'm Steven!</h1>
 
+<h2>🌱 I’m currently learning ...</h2>
+
+- SOC Analyst - letsdefend.io
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab(github link)</b>
@@ -10,9 +14,9 @@
 - Network+
 - A+
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Other Projects</h2>
 
-- Active Directory Home Lab
+- Python Project 1
 
 
 <h2> 🤳 Connect with me:</h2>
